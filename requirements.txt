@@ -7,3 +7,4 @@ numba
 ISLP
 kaggle
 geopandas
+holidays
