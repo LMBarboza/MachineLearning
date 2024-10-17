@@ -6,3 +6,4 @@ numpy
 numba
 ISLP
 kaggle
+geopandas
